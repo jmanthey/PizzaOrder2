@@ -1,0 +1,12 @@
+<resources>
+<string name="app_name">PizzaOrder</string>
+<string name="PizzaSize">Pizza Size</string>
+<string name="Small">Small ($7.00)</string>
+<string name="Medium">Medium ($9.00)</string>
+<string name="Large">Large ($13.00)</string>
+<string name="Extras">Extras</string>
+<string name="ExtraCheese">Extra Cheese (add$1.75)</string>
+<string name="Delivery">Delivery (add$2.50)</string>
+<string name="Calculate">Calculate Total</string>
+<string name="Total">Total is:</string>
+</resources>
